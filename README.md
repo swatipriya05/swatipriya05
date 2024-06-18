@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Swati Priya <br><br>- 🔭 Passionate enthusiasts in Machine Learning (ML) and Data Science!  <br>- 📚 I'm currently learning about data analytics and dataviz !<br></p>
+<p align="left">I'm Swati Priya <br><br>- 🔭 Passionate enthusiasts in Machine Learning (ML) and Deep learning!  <br>- 📚 I'm currently learning about neural network interpretability!<br></p>
 
 ###
 
